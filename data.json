@@ -1,0 +1,33 @@
+[
+	{
+	"name": "Data Structures with C++ Live",
+	"description": "A course specially designed for C++ enthusiasts",
+	"whatYouWillLearn": [
+		"Mastering DS from basic to advanced level",
+		"Solving problems which are asked in product-based companies",
+		"How to become a strong and efficient problem solver",
+		"Enhance your problem-solving ability"
+	]
+	},
+	{
+	"name": "JAVA Backend Development - Live",
+	"description": "Learn backend development with Hibernate, RESTful APIs",
+	"whatYouWillLearn": [
+		"Redis & Kafka with Spring Boot",
+		"Advanced Java",
+		"Spring / Spring Boot",
+		"Micro-services & related technologies used to build Java-based web applications"
+	]
+	},
+	{
+	"name": "System Design - Live",
+	"description": "LIVE System Design classes for individuals looking to crack SDE job",
+	"whatYouWillLearn": [
+		"How to design scalable systems",
+		"Tips to crack system design interviews",
+		"The intensity of the interview & how to manage your time",
+		"Real-world example questions like designing system of Uber, Twitter etc.",
+		"How to apply theory into application in real-time"
+	]
+	}
+]
